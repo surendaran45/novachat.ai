@@ -1,0 +1,5 @@
+{
+  "name": "NovaChat AI",
+  "description": "A powerful, fully functional generative AI interface featuring real-time streaming, code highlighting, and multiple model selection powered by Google Gemini.",
+  "requestFramePermissions": []
+}
